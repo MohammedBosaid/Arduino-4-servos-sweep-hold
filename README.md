@@ -25,7 +25,7 @@ It performs a 2-second sweep (from 0° to 180° and back), then stops and holds 
 | 3     | 11         | Arduino 5V     | Arduino GND |
 | 4     | 3          | Arduino 5V     | Arduino GND |
 
-![Wiring Diagram](images/Wiring.png)
+![Wiring Diagram](Wiring.png)
 
 ---
 
