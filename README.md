@@ -29,7 +29,7 @@ It performs a 2-second sweep (from 0° to 180° and back), then stops and holds 
 
 ---
 
-## 💻 Code (`src/servo_sweep_hold.ino`)
+## 💻 Code
 
 ```cpp
 #include <Servo.h>
