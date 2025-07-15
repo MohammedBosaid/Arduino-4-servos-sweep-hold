@@ -75,3 +75,15 @@ void setup() {
 void loop() {
   // nothing to do here—servos stay at 90°
 }
+
+How to Run It
+1- Open Tinkercad → Circuits → Create New Circuit.
+
+2- Place Arduino Uno + 4 Micro Servos.
+
+3- Wire according to the diagram.
+
+4- Paste the code into the code editor in Text mode.
+
+5- Click Start Simulation.
+
